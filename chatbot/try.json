@@ -1,0 +1,4801 @@
+[{
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    },
+    {
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are a chatbot for mining rules and regulations."
+        },
+        {
+          "role": "user",
+          "content": "What are the safety regulations for mining operations?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the safety regulations for mining operations?'."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about environmental impacts of mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Tell me about environmental impacts of mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Explain the equipment used in mining."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Explain the equipment used in mining.'."
+        },
+        {
+          "role": "user",
+          "content": "Discuss common mining techniques."
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'Discuss common mining techniques.'."
+        },
+        {
+          "role": "user",
+          "content": "What are the laws and permits required for mining?"
+        },
+        {
+          "role": "assistant",
+          "content": "Placeholder response for 'What are the laws and permits required for mining?'."
+        }
+      ]
+    }
+  ]
